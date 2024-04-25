@@ -7,8 +7,7 @@ export interface Props {
    * @title Text
    * @default Time left for a campaign to end with a link
    */
-  text?: HTMLWidget;
-
+  text?: HTMLWidget;  
   /**
    * @title Expires at date
    * @format datetime
