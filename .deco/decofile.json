@@ -2135,6 +2135,10 @@
   "Preview /sections/Images/Carousel.tsx": {
     "__resolveType": "site/sections/Images/Carousel.tsx"
   },
+  "Preview /sections/Miscellaneous/CampaignTimer.tsx": {
+    "__resolveType": "site/sections/Miscellaneous/CampaignTimer.tsx",
+    "text": "Time left for a campaign to end with a link"
+  },
   "Preview /sections/NewSection.tsx": {
     "__resolveType": "site/sections/NewSection.tsx"
   },
@@ -3719,8 +3723,7 @@
   "weather": {
     "__resolveType": "decohub/apps/weather.ts"
   },
-  "Preview /sections/Miscellaneous/CampaignTimer.tsx": {
-    "__resolveType": "site/sections/Miscellaneous/CampaignTimer.tsx",
-    "text": "Time left for a campaign to end with a link"
+  "Preview /sections/CopilotCode.tsx": {
+    "__resolveType": "site/sections/CopilotCode.tsx"
   }
 }

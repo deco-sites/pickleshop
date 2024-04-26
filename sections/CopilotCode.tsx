@@ -5,6 +5,6 @@ interface Props {
   name?: string;
 }
 
-export default function TestingPersistency({ name = "World" }: Props) {
+export default function Section({ name = "Capy" }: Props) {
   return <div>Hello {name}</div>
 }
